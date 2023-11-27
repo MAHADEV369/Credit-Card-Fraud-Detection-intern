@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection-intern
-Credit Card Fraud Detection using KNN algorithm 
+Credit Card Fraud Detection using K means algorithm 
